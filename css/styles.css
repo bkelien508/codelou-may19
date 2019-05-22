@@ -1,5 +1,8 @@
 h1 {
-    color: #FF0000;
-    background-image: url(../img/WaffleDog.jpg)
+    color: #ec3c3c;
+    background: lightblue;
 }
 
+body {
+    background: #464141;
+}
